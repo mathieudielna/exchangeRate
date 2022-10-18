@@ -1,3 +1,5 @@
 # convert-currency
-A JavaScript project
-# exchangeRate
+
+## informations
+github link : https://github.com/mathieudielna/exchangeRate
+[mathieudielna](https://github.com/mathieudielna)
